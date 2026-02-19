@@ -71,7 +71,10 @@ Reload:
 source ~/.zshrc
 ```
 
-
+#### 6. Start the script
+```sh
+n8n-tunnel
+```
 
 ## Check if it works
 
